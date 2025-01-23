@@ -1,0 +1,8 @@
+Action,Product,Quantity,Remaining
+sell,wine,1000,1000
+sell,whisky,100,100
+buy,wine,500,0
+buy,wine,1000,0
+buy,wine,500,0
+sell,whisky,100,100
+buy,whisky,120,0
