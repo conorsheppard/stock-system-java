@@ -2,7 +2,7 @@
 
 if [ "$1" = "native" ];
 then
-  ./target/ferovinum-technical-assignment
+  ./target/stock-system-java
 else
   mvn exec:java -q
 fi

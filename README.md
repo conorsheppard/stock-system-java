@@ -15,9 +15,7 @@
 ### Assignment Description
 <details>
 <summary>Click to read instructions</summary><br />
-<img src="./assignment-description/1abbb342-6976-4ee6-8cbc-11842bebb3de-0.jpg" style="display: flex;" alt="assignment-description-page-1">
-<img src="./assignment-description/1abbb342-6976-4ee6-8cbc-11842bebb3de-1.jpg" style="display: flex;" alt="assignment-description-page-2">
-<img src="./assignment-description/1abbb342-6976-4ee6-8cbc-11842bebb3de-2.jpg" style="display: flex;" alt="assignment-description-page-3">
+<img src="assignment-description.jpg" style="display: flex;" alt="assignment-description">
 </details>
 
 ### How To Run

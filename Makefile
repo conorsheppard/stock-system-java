@@ -33,10 +33,10 @@ coverage-badge-gen:
 	python3 -m jacoco_badge_generator -j target/jacoco-report/jacoco.csv
 
 build: clean package
-	docker build --no-cache . -t conorsheppard/ferovinum-technical-assignment
+	docker build --no-cache . -t conorsheppard/stock-system-java
 
 run:
-	docker run --rm -it conorsheppard/ferovinum-technical-assignment
+	docker run --rm -it conorsheppard/stock-system-java
 
 .SILENT:
 .PHONY: default clean install package test build-native mvn-run test-coverage check-coverage coverage-badge-gen build pull run
